@@ -1,4 +1,4 @@
-# Olá, eu sou o Wenderson Luís 👋
+# Olá, eu sou o Wenderson 👋
 
 **Engenheiro de Software em formação | Bacharel em Ciências Contábeis**
 
